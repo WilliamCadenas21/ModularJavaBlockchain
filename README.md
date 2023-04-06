@@ -1,6 +1,8 @@
 # Modular BlockChain Simulator
 
-Academic Modular Blockchain Initiative. This project is intended to be open-source and for academic propose. The main idea is to create an application to simulate the behavior of a blockchain node and then connect to other nodes through peer to peer network. Also, the system is modular, and with time and collaboration, it might have more options and structures to represent the blockchain, the java contracts, the transactions, etc.
+Academic Modular Blockchain Initiative. This project is intended to be open-source and for academic propose. The main idea is to create an application to simulate the behavior of a blockchain node and then connect to other nodes through peer to peer network. Also, the system is modular, and with time and collaboration, it might have more options and structures to represent the blockchain, the java contracts, the transactions.
+
+This repository includes all the work done for a graduation thesis at Universidad del Norte. For more information you can follow this link: http://hdl.handle.net/10584/9281 
 
 ## 1. Before local or docker run it
 
